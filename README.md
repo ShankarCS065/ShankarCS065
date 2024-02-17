@@ -23,9 +23,9 @@
 
 </p>
 
-<p>
-<h3 align="left">Technical Skills:</h3>
-</p>
+
+<h3 align="left">Technical Skill----</h3>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
