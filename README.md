@@ -41,13 +41,14 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/reference/android/util/Xml" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="xml" width="40" height="40"/> </a>
 <a href="https://developer.android.com/reference/kotlin/org/json/JSONObject" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" alt="json" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" color=""alt="nodejs" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/nodejs/"  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" color=""alt="nodejs" width="60" height="60"/> </a>
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="RestAPI" width="60" height="60"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <h5 align="left">FrameWorks:</h5>
 <p align="left">
 <a href="https://developer.android.com/jetpack" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif" alt="android Jetpack" width="40" height="40"/> </a>
+<a href="https://www.javatpoint.com/expressjs-tutorial" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" alt="express js" width="40" height="40"/> </a>
 
 
 
