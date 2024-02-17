@@ -59,6 +59,6 @@
 <p align="left">
 <a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1175138.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODQ0OTc1MywicSI6bnVsbCwiaWF0IjoxNzA4MTkwNTUzfQ__.bebf6d0b7821006770021ebe5c3f2401d0250e04289bae055ad9fc5336987641" alt="Mongodb" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" alt="MySQL" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="40" height="40"/> </a>
 
 </p>
