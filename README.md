@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/shankar-kumar-258976248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shankar-kumar-258976248" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nitianshankarcs65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nitianshankarcs65" height="30" width="40" /></a>
 <a href="https://twitter.com/KrishKrash2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/KrishKrash2" height="30" width="40" /></a>
+<a href="https://www.instagram.com/krashkrosh65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/krashkrosh65" height="30" width="40" /></a>
 
 </p>
 
