@@ -57,7 +57,7 @@
   
 <h5 align="left">Database:</h5>
 <p align="left">
-<a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-ar21.svg" alt="Mongodb" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226029.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODQ0OTUzMCwicSI6bnVsbCwiaWF0IjoxNzA4MTkwMzMwfQ__.3d90b49b37bbb4c4605ef17f39f11c0144784b234064fba8ed62e30c9a64f5b0" alt="Mongodb" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" alt="MySQL" width="40" height="40"/> </a>
 
