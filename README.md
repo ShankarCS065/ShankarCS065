@@ -63,6 +63,6 @@
 <h5 align="left">Developer Tools:</h5>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.techtarget.com/searchitoperations/definition/GitHub" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1288242.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODQ1MDIyNSwicSI6bnVsbCwiaWF0IjoxNzA4MTkxMDI1fQ__.fe4993a4c20d1eb0b96ac64a3a2dcbaae9e5f39ba125ec5ba7bd145aaeb68c45" alt="Github" width="40" height="40"/> </a>
+<a href="https://www.techtarget.com/searchitoperations/definition/GitHub" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/461797.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODQ1MDM3NywicSI6bnVsbCwiaWF0IjoxNzA4MTkxMTc3fQ__.a3bf3e87159529db650856dcb9e8cb6317d22e50ac8aa698271b29e4065c48a5" alt="Github" width="40" height="40"/> </a>
 
 </p>
