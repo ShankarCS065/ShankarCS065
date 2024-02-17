@@ -49,8 +49,8 @@
 <p align="left">
 <a href="https://developer.android.com/jetpack" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif" alt="android Jetpack" width="40" height="40"/> </a>
 <a href="https://www.javatpoint.com/expressjs-tutorial" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" alt="express js" width="40" height="40"/> </a>
-
-
+<a href="https://blog.logrocket.com/building-structuring-node-js-mvc-application/" target="_blank" rel="noreferrer"> <img src="https://thegeeksarena.com/version/2021/05/MVC-2048x1152.png" alt="mvc" width="40" height="40"/> </a>
+<a href="https://medium.com/@jecky999/mvvm-architecture-in-android-using-kotlin-a-practical-guide-73f8de1d9c58" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/gunhansancar.com/wp-content/uploads/2023/10/android-mvvm.jpg?w=1200&ssl=1.png" alt="mvvm" width="40" height="40"/> </a>
 
 
 </p>
