@@ -64,5 +64,7 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.techtarget.com/searchitoperations/definition/GitHub" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/461797.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODQ1MDM3NywicSI6bnVsbCwiaWF0IjoxNzA4MTkxMTc3fQ__.a3bf3e87159529db650856dcb9e8cb6317d22e50ac8aa698271b29e4065c48a5" alt="Github" width="40" height="40"/> </a>
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="Android studio" width="40" height="40"/> </a>
+
 
 </p>
