@@ -46,7 +46,6 @@
 <a href="https://developer.android.com/reference/kotlin/org/json/JSONObject" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" alt="json" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/nodejs/"  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" color=""alt="nodejs" width="60" height="60"/> </a>
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="RestAPI" width="60" height="60"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <h5 align="left">FrameWorks:</h5>
 <p align="left">
@@ -60,5 +59,10 @@
 <a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1175138.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODQ0OTc1MywicSI6bnVsbCwiaWF0IjoxNzA4MTkwNTUzfQ__.bebf6d0b7821006770021ebe5c3f2401d0250e04289bae055ad9fc5336987641" alt="Mongodb" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="60" height="60"/> </a>
+
+<h5 align="left">Developer Tools:</h5>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.techtarget.com/searchitoperations/definition/GitHub" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1288242.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODQ1MDIyNSwicSI6bnVsbCwiaWF0IjoxNzA4MTkxMDI1fQ__.fe4993a4c20d1eb0b96ac64a3a2dcbaae9e5f39ba125ec5ba7bd145aaeb68c45" alt="Github" width="40" height="40"/> </a>
 
 </p>
