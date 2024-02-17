@@ -55,8 +55,10 @@
 <a href="https://blog.logrocket.com/building-structuring-node-js-mvc-application/" target="_blank" rel="noreferrer"> <img src="https://thegeeksarena.com/version/2021/05/MVC-2048x1152.png" alt="mvc" width="40" height="40"/> </a>
 <a href="https://medium.com/@jecky999/mvvm-architecture-in-android-using-kotlin-a-practical-guide-73f8de1d9c58" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zACSNIea--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A49B96zWRdA1mQbSiMkOkYA.png" alt="mvvm" width="40" height="40"/> </a>
   
-<h5 align="left">FrameWorks:</h5>
+<h5 align="left">Database:</h5>
 <p align="left">
-<a href="https://developer.android.com/jetpack" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif" alt="android Jetpack" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-ar21.svg" alt="Mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" alt="MySQL" width="40" height="40"/> </a>
 
 </p>
