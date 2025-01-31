@@ -47,7 +47,7 @@
 
 <h5 align="left">FrameWorks:</h5>
 <p align="left">
-<a href="https://developer.android.com/jetpack" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif" alt="android Jetpack" width="40" height="40"/> </a>
+<a href="https://developer.android.com/jetpack" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-1elwQ9eKqBI-q6cGngDKg.png" alt="android Jetpack" width="40" height="40"/> </a>
 <a href="https://www.javatpoint.com/expressjs-tutorial" target="_blank" rel="noreferrer"> <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fhpg6if7btrwilqkidqbe.png" alt="express js" width="40" height="40"/> </a>
 <a href="https://blog.logrocket.com/building-structuring-node-js-mvc-application/" target="_blank" rel="noreferrer"> <img src="https://thegeeksarena.com/version/2021/05/MVC-2048x1152.png" alt="mvc" width="40" height="40"/> </a>
 <a href="https://medium.com/@jecky999/mvvm-architecture-in-android-using-kotlin-a-practical-guide-73f8de1d9c58" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*nO_OYQJiyySwcyv8" alt="mvvm" width="40" height="40"/> </a>
